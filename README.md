@@ -1,11 +1,13 @@
 # Tumbler Collection Data Analysis
 
-## Overview
 This project explores a dataset of a personal tumbler collection using Python.  
-The analysis focuses on identifying patterns in brands, bottle sizes, and limited-edition items through exploratory data analysis and visualization.
+The analysis examines patterns in brand distribution, bottle sizes, and limited-edition items through exploratory data analysis and data visualization.
 
-The goal of the project is to practice data analysis workflows including data loading, cleaning, visualization, and interpretation.
-
+Tools used:
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
 ---
 
 ## Dataset
