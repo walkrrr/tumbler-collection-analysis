@@ -56,5 +56,4 @@ These visualizations help identify trends within the collection.
 
 ---
 
-ion.png", bbox_inches="tight")
 
