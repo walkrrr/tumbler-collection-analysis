@@ -57,3 +57,5 @@ These visualizations help identify trends within the collection.
 ---
 
 
+### View the notebook
+https://nbviewer.org/github/walkrrr/tumbler-collection-analysis/blob/main/tumbler_analysis.ipynb
