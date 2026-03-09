@@ -54,33 +54,5 @@ These visualizations help identify trends within the collection.
 
 ---
 
-## Project Structure
-
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-color_palette = {
-    "Black": "black",
-    "Pink": "pink",
-    "Blue": "skyblue",
-    "Green": "green",
-    "Purple": "purple",
-    "White": "lightgray",
-    "Red": "red",
-    "Yellow": "gold"
-}
-
-sns.countplot(data=df, x="color", palette=color_palette)
-plt.xticks(rotation=45)
-plt.title("Distribution of Tumbler Colors")
-plt.show()
-
-color_palette = {
-    "rose quartz": "#F7CAC9",
-    "cream": "#FFFDD0",
-    "sage": "#9CAF88",
-    "navy": "#1F3A5F",
-}
-
-plt.savefig("brand_distribution.png", bbox_inches="tight")
+ion.png", bbox_inches="tight")
 
